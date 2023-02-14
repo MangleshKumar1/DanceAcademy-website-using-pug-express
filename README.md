@@ -1,0 +1,1 @@
+This is a Simple Website for Dance Academy using Pug template, express and node.js.
